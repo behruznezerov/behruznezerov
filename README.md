@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm behruznezerov</h1>
-<h3 align="center">Salam,Hello,Merhaba</h3>
+<h3 align="center">Salam,Hello,Merhaba,Bonjour,Ciao,Ni hao,,Privet</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=behruznezerov&label=Profile%20views&color=0e75b6&style=flat" alt="behruznezerov" /> </p>
 
